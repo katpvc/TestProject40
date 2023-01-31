@@ -9,6 +9,11 @@ public class FirstClass {
         System.out.println("hello2");
         System.out.println("hello3");
         System.out.println("Fazi");
+        System.out.println("Hello4");
+        System.out.println("hello everyone!!");
+        //==========
+        System.out.println("hello1");
+//===========
     }
 
 }
